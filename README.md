@@ -24,16 +24,16 @@ When I'm not working with data, I enjoy watching podcasts and reading books.
     
 ## 🔭 What I'm Currently Working On 
 
-- **Project A:** [LinkedIn Analytics Dashboard.]
-Building a Power BI dashboard tracking follower growth, engagement rates, and content performance to measure personal brand strategy. Demonstrates data transformation, DAX proficiency, and ability to derive actionable insights from social metrics.]  
-- **Project B:** [Zimbabwean Tech Job Market Analysis Report.]
-Building an aggregated and analyzed job posting data across LinkedIn and regional platforms to identify salary trends, skill demand, and career pathways for African tech professionals. Shows market research capability and strategic thinking in emerging tech ecosystems.]
-- **Content Creation:** [Developing new tutorials on data visualization for my Linkedin.]
+- **Project A:** LinkedIn Analytics Dashboard.
+Building a Power BI dashboard tracking follower growth, engagement rates, and content performance to measure personal brand strategy. Demonstrates data transformation, DAX proficiency, and ability to derive actionable insights from social metrics.  
+- **Project B:** Zimbabwean Tech Job Market Analysis Report.
+Building an aggregated and analyzed job posting data across LinkedIn and regional platforms to identify salary trends, skill demand, and career pathways for African tech professionals. Shows market research capability and strategic thinking in emerging tech ecosystems.
+- **Content Creation:** Developing new tutorials on data visualization for my Linkedin.
 
 ## 🌱 Currently Learning 
 
-- I'm currently completing a Google Data Analytics Professional Certificate course where I'm actively learning the end-to-end data analysis process]
-- [AWS Certified Cloud Practitioner where I am buidling my foundational skills in cloud services.]
+- I'm currently completing a Google Data Analytics Professional Certificate course where I'm actively learning the end-to-end data analysis process
+- AWS Certified Cloud Practitioner where I am buidling my foundational skills in cloud services.
 
 ## 🛠️ Technical Skillset
 
