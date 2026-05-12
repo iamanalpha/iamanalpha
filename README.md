@@ -21,7 +21,7 @@ When I'm not working with data, I enjoy watching podcasts and reading books.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://iamanalpha.github.io/)
-      
+    
 ## 🔭 What I'm Currently Working On 
 
 - **Project A:** [LinkedIn Analytics Dashboard.]
